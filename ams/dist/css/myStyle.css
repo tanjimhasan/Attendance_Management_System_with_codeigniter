@@ -1,0 +1,9 @@
+.form-box input[type='text'], .form-box input[type='email'], .form-box input[type='password'] {
+    margin-bottom: 10px;
+}
+.register-box-body .form-group label.error {
+    color: red;
+    background: none;
+    padding-left: 0;
+    margin-left: .3em;
+}
